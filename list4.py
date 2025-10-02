@@ -17,5 +17,4 @@ def Find(start, end):
 
 num1=int(input("Please Enter Starting Number: "))
 num2=int(input("Please Enter Ending Number: "))
-print("The square of inbetween are ")
 print(Find(num1, num2))
